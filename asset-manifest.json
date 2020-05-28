@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/vietnguyen88/sneaker-store.git/static/css/main.14075fe8.chunk.css",
-    "main.js": "/vietnguyen88/sneaker-store.git/static/js/main.a2282a28.chunk.js",
-    "main.js.map": "/vietnguyen88/sneaker-store.git/static/js/main.a2282a28.chunk.js.map",
-    "runtime-main.js": "/vietnguyen88/sneaker-store.git/static/js/runtime-main.0aec92f9.js",
-    "runtime-main.js.map": "/vietnguyen88/sneaker-store.git/static/js/runtime-main.0aec92f9.js.map",
-    "static/js/2.20005d4a.chunk.js": "/vietnguyen88/sneaker-store.git/static/js/2.20005d4a.chunk.js",
-    "static/js/2.20005d4a.chunk.js.map": "/vietnguyen88/sneaker-store.git/static/js/2.20005d4a.chunk.js.map",
-    "index.html": "/vietnguyen88/sneaker-store.git/index.html",
-    "precache-manifest.0a0f3e12da658d1eab42746f1a8a2e22.js": "/vietnguyen88/sneaker-store.git/precache-manifest.0a0f3e12da658d1eab42746f1a8a2e22.js",
-    "service-worker.js": "/vietnguyen88/sneaker-store.git/service-worker.js",
-    "static/css/main.14075fe8.chunk.css.map": "/vietnguyen88/sneaker-store.git/static/css/main.14075fe8.chunk.css.map",
-    "static/js/2.20005d4a.chunk.js.LICENSE.txt": "/vietnguyen88/sneaker-store.git/static/js/2.20005d4a.chunk.js.LICENSE.txt",
-    "static/media/andres-jasso-u4unYsXQHnE-unsplash.jpg": "/vietnguyen88/sneaker-store.git/static/media/andres-jasso-u4unYsXQHnE-unsplash.51690114.jpg",
-    "static/media/imani-clovis-LxVxPA1LOVM-unsplash.jpg": "/vietnguyen88/sneaker-store.git/static/media/imani-clovis-LxVxPA1LOVM-unsplash.bbf06e5f.jpg",
-    "static/media/leon-skibitzki-NMyuo1hoCAA-unsplash.jpg": "/vietnguyen88/sneaker-store.git/static/media/leon-skibitzki-NMyuo1hoCAA-unsplash.c2a1f150.jpg",
-    "static/media/trendest-studio-XZ3EmAIWuz0-unsplash.jpg": "/vietnguyen88/sneaker-store.git/static/media/trendest-studio-XZ3EmAIWuz0-unsplash.8b31a3cf.jpg"
+    "main.css": "/sneaker-store/static/css/main.14075fe8.chunk.css",
+    "main.js": "/sneaker-store/static/js/main.29f069a3.chunk.js",
+    "main.js.map": "/sneaker-store/static/js/main.29f069a3.chunk.js.map",
+    "runtime-main.js": "/sneaker-store/static/js/runtime-main.afaf535c.js",
+    "runtime-main.js.map": "/sneaker-store/static/js/runtime-main.afaf535c.js.map",
+    "static/js/2.20005d4a.chunk.js": "/sneaker-store/static/js/2.20005d4a.chunk.js",
+    "static/js/2.20005d4a.chunk.js.map": "/sneaker-store/static/js/2.20005d4a.chunk.js.map",
+    "index.html": "/sneaker-store/index.html",
+    "precache-manifest.62692241881ec2f4ed40ef87714746a8.js": "/sneaker-store/precache-manifest.62692241881ec2f4ed40ef87714746a8.js",
+    "service-worker.js": "/sneaker-store/service-worker.js",
+    "static/css/main.14075fe8.chunk.css.map": "/sneaker-store/static/css/main.14075fe8.chunk.css.map",
+    "static/js/2.20005d4a.chunk.js.LICENSE.txt": "/sneaker-store/static/js/2.20005d4a.chunk.js.LICENSE.txt",
+    "static/media/andres-jasso-u4unYsXQHnE-unsplash.jpg": "/sneaker-store/static/media/andres-jasso-u4unYsXQHnE-unsplash.51690114.jpg",
+    "static/media/imani-clovis-LxVxPA1LOVM-unsplash.jpg": "/sneaker-store/static/media/imani-clovis-LxVxPA1LOVM-unsplash.bbf06e5f.jpg",
+    "static/media/leon-skibitzki-NMyuo1hoCAA-unsplash.jpg": "/sneaker-store/static/media/leon-skibitzki-NMyuo1hoCAA-unsplash.c2a1f150.jpg",
+    "static/media/trendest-studio-XZ3EmAIWuz0-unsplash.jpg": "/sneaker-store/static/media/trendest-studio-XZ3EmAIWuz0-unsplash.8b31a3cf.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0aec92f9.js",
+    "static/js/runtime-main.afaf535c.js",
     "static/js/2.20005d4a.chunk.js",
     "static/css/main.14075fe8.chunk.css",
-    "static/js/main.a2282a28.chunk.js"
+    "static/js/main.29f069a3.chunk.js"
   ]
 }
