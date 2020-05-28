@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/sneaker-store/static/css/main.14075fe8.chunk.css",
-    "main.js": "/sneaker-store/static/js/main.29f069a3.chunk.js",
-    "main.js.map": "/sneaker-store/static/js/main.29f069a3.chunk.js.map",
+    "main.js": "/sneaker-store/static/js/main.c962a2ba.chunk.js",
+    "main.js.map": "/sneaker-store/static/js/main.c962a2ba.chunk.js.map",
     "runtime-main.js": "/sneaker-store/static/js/runtime-main.afaf535c.js",
     "runtime-main.js.map": "/sneaker-store/static/js/runtime-main.afaf535c.js.map",
     "static/js/2.20005d4a.chunk.js": "/sneaker-store/static/js/2.20005d4a.chunk.js",
     "static/js/2.20005d4a.chunk.js.map": "/sneaker-store/static/js/2.20005d4a.chunk.js.map",
     "index.html": "/sneaker-store/index.html",
-    "precache-manifest.62692241881ec2f4ed40ef87714746a8.js": "/sneaker-store/precache-manifest.62692241881ec2f4ed40ef87714746a8.js",
+    "precache-manifest.eeb9af8e7b8e2ea1b245fa8674a052b6.js": "/sneaker-store/precache-manifest.eeb9af8e7b8e2ea1b245fa8674a052b6.js",
     "service-worker.js": "/sneaker-store/service-worker.js",
     "static/css/main.14075fe8.chunk.css.map": "/sneaker-store/static/css/main.14075fe8.chunk.css.map",
     "static/js/2.20005d4a.chunk.js.LICENSE.txt": "/sneaker-store/static/js/2.20005d4a.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.afaf535c.js",
     "static/js/2.20005d4a.chunk.js",
     "static/css/main.14075fe8.chunk.css",
-    "static/js/main.29f069a3.chunk.js"
+    "static/js/main.c962a2ba.chunk.js"
   ]
 }
