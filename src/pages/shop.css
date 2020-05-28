@@ -1,0 +1,14 @@
+.shop{
+    width: 980px;
+    margin: 0 auto;
+    opacity: 0;
+}
+
+.filter-section{
+    display: flex;
+    justify-content: space-evenly;
+    border-top: .5px solid salmon;
+    border-bottom: .5px solid salmon;
+    padding: 1rem 0;
+
+}
