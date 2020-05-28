@@ -20,11 +20,14 @@ function App() {
             <Route exact path='/'>
               <Homepage />
             </Route>
-            <Route exact path='/shop'>
+            <Route path='/shop'>
               <Shop />
             </Route>
-            <Route exact path='/shoppingcart'>
+            <Route path='/shoppingcart'>
               <ShoppingCart />
+            </Route>
+            <Route path='*'>
+              <Homepage />
             </Route>
           </Switch>
           <Footer />
